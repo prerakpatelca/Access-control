@@ -1,4 +1,9 @@
 https://csunix.mohawkcollege.ca/~000825410/10127/4/index.php?/Login
+
+This website is designed using CodeIgniter to perform access control for members, editors and admin.
+
+Members and Editors have certain restrictions while they try to access website, whereas, admin can access all the pages while keeping track of all the registered users and their role. Admin can also lock and unlock user from logging in.
+
 ###################
 What is CodeIgniter
 ###################
